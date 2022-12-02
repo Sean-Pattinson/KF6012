@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="142a4010-33ff-4f5a-9583-6a2cfd05f6f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1mqJBi0GQMuIMd8Xe1EZWzb4Xiv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="142a4010-33ff-4f5a-9583-6a2cfd05f6f4" name="Default Changelist" comment="" />
+      <created>1610215053632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610215053632</updated>
+      <workItem from="1610215054669" duration="7703000" />
+      <workItem from="1611618587908" duration="62000" />
+      <workItem from="1615550805327" duration="89000" />
+      <workItem from="1616072249343" duration="5982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3284" y="226" key="NewPhpClassDialog" timestamp="1610230911906">
+      <screen x="2560" y="-17" width="1920" height="1040" />
+    </state>
+    <state x="3284" y="226" key="NewPhpClassDialog/0.0.2560.1440/2560.-17.1920.1040@2560.-17.1920.1040" timestamp="1610230911906" />
+  </component>
+</project>

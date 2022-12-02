@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.NormalText {
+  font-size: 0.9em;
+}
+
+.SmallText {
+  font-size: 0.5em;
+}
+
+.LargeText {
+  font-size: 2em;
+}

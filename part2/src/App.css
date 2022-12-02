@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+  background: #f0f5f5;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-top: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1261A0;
+  margin: auto;
+  max-width: 600px;
+  box-shadow: 0px 4px 12px grey;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #333;
+}
+
+.selected {
+  background-color: #111;
+}
+
+.WideNav {
+  display: block;
+}
+
+.NarrowNav {
+  display: none;
+}
+
+.error {
+  background: #d9534f;
+  margin: 1%;
+  border-radius: 5px;
+  color: #ffe1e1;
+  font-weight: bold;
+}
+
+.info {
+  margin: 1%;
+  background-color: #fff;
+  border : 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 2px 2px lightgrey;
+}
+
+.collapsible {
+
+  cursor: pointer;
+  padding: 18px;
+  border: 1px solid #ccc;
+  outline: #ccc;
+}
+
+@media screen and (max-width: 600px) {
+  nav li {
+    text-align: center;
+    float: none;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+
+  .WideNav {
+    display: none;
+  }
+
+  .NarrowNav {
+    display: block;
+  }
+}

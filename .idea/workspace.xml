@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="706b1f82-e163-4023-a46d-15ef96f93083" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mqxF6tieDKQCLuU6gkfYj3hplQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\KF6012\part2\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="706b1f82-e163-4023-a46d-15ef96f93083" name="Default Changelist" comment="" />
+      <created>1610234816344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610234816344</updated>
+      <workItem from="1610234817795" duration="3857000" />
+      <workItem from="1610278718024" duration="42798000" />
+      <workItem from="1610368130329" duration="48770000" />
+      <workItem from="1610463060747" duration="21946000" />
+      <workItem from="1610486212526" duration="6542000" />
+      <workItem from="1610492949344" duration="4100000" />
+      <workItem from="1610500710421" duration="146000" />
+      <workItem from="1610504504908" duration="1732000" />
+      <workItem from="1610506586776" duration="57000" />
+      <workItem from="1611589709240" duration="4000" />
+      <workItem from="1618762546449" duration="912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="310" key="FileDocumentManager.FileCacheConflict" timestamp="1610320526879">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="640" y="310" key="FileDocumentManager.FileCacheConflict/0.0.2560.1440/2560.-17.1920.1040@2560.-17.1920.1040" timestamp="1610320526879" />
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1610391679599">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440/2560.-17.1920.1040@0.0.2560.1440" timestamp="1610391679599" />
+  </component>
+</project>
